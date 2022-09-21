@@ -10,3 +10,4 @@ E-Learning platform
 | Adamo Orsini  | Adamo-O | 40174716 |
 | Noah Assayag  | noahassayag | 40174117 |
 | Maxx Freund | maxxfreund | 40174065 |
+| Amin Boulemkahel | dzamin12 | 40170405 |
