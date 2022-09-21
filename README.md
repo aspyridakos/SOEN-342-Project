@@ -9,3 +9,4 @@ E-Learning platform
 | Jaspreet Singh | jaspreet305 | 40174112 |
 | Adamo Orsini  | Adamo-O | 40174716 |
 | Noah Assayag  | noahassayag | 40174117 |
+| Maxx Freund | maxxfreund | 40174065 |
