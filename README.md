@@ -11,4 +11,4 @@ E-Learning platform
 | Noah Assayag  | noahassayag | 40174117 |
 | Maxx Freund | maxxfreund | 40174065 |
 | Amin Boulemkahel | dzamin12 | 40170405 |
-| Oumar Barryahel | oumbarry | 40172989 |
+| Oumar Barry | oumbarry | 40172989 |
