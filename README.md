@@ -4,6 +4,7 @@
 E-Learning platform that connects students and parents with tutoring services in an accessible online format.
 
 ## Objective
+To create a learning platform that fulfills the needs of every type of student in a uniform, cohesive and organized way.
 
 ## Features
 
