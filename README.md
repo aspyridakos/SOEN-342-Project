@@ -1,9 +1,9 @@
 # SOEN-342-Project
 
-## Objective
+## Description
+E-Learning platform that connects students and parents with tutoring services on an accessible online platform.
 
-## Project Description
-E-Learning platform
+## Objective
 
 ## Features
 
