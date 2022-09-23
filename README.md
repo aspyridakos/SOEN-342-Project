@@ -18,3 +18,4 @@ E-Learning platform that connects students and parents with tutoring services in
 | Amin Boulemkahel     | dzamin12    | 40170405 |
 | Oumar Barry          | oumbarry    | 40172989 |
 | Koosha Gholipour     | Koosha-G    | 40176826 |
+| Emma Amar            | emma-amar   | 40174184 |
