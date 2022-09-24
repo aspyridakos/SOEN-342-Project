@@ -1,4 +1,4 @@
-# SOEN-342-Project
+# SOEN 342 Project - Team E
 
 ## Description
 E-Learning platform that connects students and parents with tutoring services in an accessible online format.
